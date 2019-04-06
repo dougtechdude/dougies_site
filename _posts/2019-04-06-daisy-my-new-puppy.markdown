@@ -52,6 +52,6 @@ I haven't wrote a good ol' fashioned blog post in quite some time, and just want
 
 Thanks for reading, I really appreciate it! :blush:
 
-I'm not asking for any donations for Daisy or her care. But would ask, if you've made it this far in the post could you post a picture of your favorite companion? This would help making me feel a lot better, and hopeful for Daisy's future.
+I'm not asking for any donations for Daisy or her care. But would ask, if you've made it this far in the post could you post a picture of your favorite companion? This would help making me feel a lot better, and hopeful for Daisy's future. Thank you. :heart:
 
 ***
