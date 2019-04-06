@@ -6,8 +6,9 @@ image: "/uploads/daisy_1.jpg"
 headerImage: false
 tag:
 - life
-- tech
 - blog
+- puppy
+- dog
 category: blog
 author: Doug Jones
 description: A post about my newest best friend, Daisy
