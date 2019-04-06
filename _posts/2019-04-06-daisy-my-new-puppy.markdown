@@ -18,7 +18,7 @@ description: A post about my newest best friend, Daisy
 
 ![Sleeping puppy](https://i.imgur.com/uELjEtu.jpg "Daisy")
 
-#### She's a Shiba Enu/Labrador mix (read more about this breed [here](https://shibainuhq.com/shiba-inu-lab-mix/))
+#### She's a Shiba Inu/Yellow Labrador mix (read more about this breed [here](https://shibainuhq.com/shiba-inu-lab-mix/))
 
 #### Quick stats:
 
