@@ -15,7 +15,7 @@ description: A post about my newest best friend, Daisy
 ---
 ## This is Daisy (my little pup)
 
-![Sleeping puppy](/uploads/daisy_1.jpg "Daisy")
+![Sleeping puppy](https://i.imgur.com/uELjEtu.jpg "Daisy")
 
 #### She's a Shiba Enu/Labrador mix (read more about this breed [here](https://shibainuhq.com/shiba-inu-lab-mix/))
 
@@ -43,66 +43,14 @@ I haven't wrote a good ol' fashioned blog post in quite some time, and just want
 
 **Image** on the left and **Text** on the right:
 
-{% highlight html %}
-<div class="side-by-side">
-<div class="toleft">
-<img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-<figcaption class="caption">Photo by John Doe</figcaption>
-</div>
-
-    <div class="toright">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-
-</div>
-{% endhighlight %}
-
-<div class="side-by-side">
-<div class="toleft">
-<img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-<figcaption class="caption">Photo by John Doe</figcaption>
-</div>
-
-    <div class="toright">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-
-</div>
-
-**Text** on the left and **Image** on the right:
-
-{% highlight html %}
-<div class="side-by-side">
-<div class="toleft">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-</div>
-
-    <div class="toright">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
-
-</div>
-{% endhighlight %}
-
-<div class="side-by-side">
-<div class="toleft">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-</div>
-
-    <div class="toright">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
-
-</div>
+{
 
 ***
 
-## Puppy tax
+## Puppy tax :dog2:
 
-![](/uploads/daisy_2.jpg)
+![Playful puppy](https://i.imgur.com/2czquUF.jpg "Daisy")
 
-Thanks for reading! 
+Thanks for reading! :smile:
 
 ***
