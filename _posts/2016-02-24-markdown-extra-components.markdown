@@ -1,36 +1,29 @@
 ---
-title: Hello there - test post
+title: Meet my best friend - Daisy
 layout: post
-date: 2016-02-24 22:48
-image: "/assets/images/markdown.jpg"
+date: 2019-04-06 16:30:00 -0400
+image: "/uploads/daisy_1.jpg"
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- life
+- tech
+- blog
 category: blog
 author: Doug Jones
-description: Markdown summary with different options
+description: A post about my newest best friend, Daisy
 
 ---
-## Summary:
+## This is Daisy (my little pup)
 
-You can pick as item to see how to apply in markdown.
+![Sleeping puppy](/uploads/daisy_1.jpg "Daisy")
 
-#### Especial Elements
+#### She's a Shiba Enu/Labrador mix (read more about this breed [here](https://shibainuhq.com/shiba-inu-lab-mix/))
 
-* [Evidence](#evidence)
-* [Side-by-Side](#side-by-side)
-* [Star](#star)
-* [Especial Breaker](#especial-breaker)
-* [Spoiler](#spoiler)
+#### Quick stats:
 
-#### External Elements
-
-* [Gist](#gist)
-* [Codepen](#codepen)
-* [Slideshare](#slideshare)
-* [Videos](#videos)
+* At the time of this post she is 9 weeks old
+* Loves to bite fingers
+* 
 
 ***
 
@@ -44,9 +37,9 @@ You can try the evidence!
 
 ***
 
-## Side-by-side
+## Disclosure
 
-Like the [Medium](https://medium.com/) component.
+I haven't wrote a good ol' fashioned blog post in quite some time, and just wanted to test my chops again.
 
 **Image** on the left and **Text** on the right:
 
@@ -106,88 +99,10 @@ Like the [Medium](https://medium.com/) component.
 
 ***
 
-## Star
+## Puppy tax
 
-You can give evidence to a post. Just add the tag to the markdown file.
+![](/uploads/daisy_2.jpg)
 
-{% highlight raw %}
-star: true
-{% endhighlight %}
+Thanks for reading! 
 
 ***
-
-## Especial Breaker
-
-You can add a especial _hr_ to your text.
-
-{% highlight html %}
-<div class="breaker"></div>
-{% endhighlight %}
-
-<div class="breaker"></div>
-
-***
-
-## Spoiler
-
-You can add an especial hidden content that appears on hover.
-
-{% highlight html %}
-<div class="spoiler"><p>your content</p></div>
-{% endhighlight %}
-
-<div class="spoiler"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
-
-***
-
-## Gist
-
-You can add Gists from github.
-
-{% highlight raw %}
-{ % gist sergiokopplin/91ff4220480727b47224245ee2e9c291 % }
-{% endhighlight %}
-
-{% gist sergiokopplin/91ff4220480727b47224245ee2e9c291 %}
-
-***
-
-## Codepen
-
-You can add Pens from Codepen.
-
-{% highlight html %}
-<p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>
-See the Pen <a href='http://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of the Book Cover of _The Flame Alphabet_</a> by Chris Coyier (<a href='http://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='http://codepen.io'>CodePen</a>.
-</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-{% endhighlight %}
-
-<p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>See the Pen <a href='http://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of the Book Cover of _The Flame Alphabet_</a> by Chris Coyier (<a href='http://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
-***
-
-## Slideshare
-
-Add your presentations here!
-
-{% highlight html %}
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-{% endhighlight %}
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
-***
-
-## Videos
-
-Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!
-
-**Example**
-
-{% highlight html %}
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
-{% endhighlight %}
-
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
