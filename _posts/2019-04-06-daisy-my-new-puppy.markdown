@@ -24,7 +24,7 @@ description: A post about my newest best friend, Daisy
 
 * At the time of this post she is 9 weeks old
 * Loves to bite fingers
-* 
+* Loves to run and play and chew on her favorite pink teething bone :meat_on_bone:
 
 ***
 
@@ -42,9 +42,7 @@ You can try the evidence!
 
 I haven't wrote a good ol' fashioned blog post in quite some time, and just wanted to test my chops again.
 
-**Image** on the left and **Text** on the right:
-
-{
+**Also..** sadly Daisy has been diagnosed with the [Parvovirus](http://urlsec.io/\~https://www.akc.org/expert-advice/health/what-every-puppy-owner-needs-to-know-about-parvo-in-puppies/ "Read more about the Parvovirus in puppies here"), as well as [hookworms](http://urlsec.io/\~https://www.akc.org/expert-advice/health/understanding-hookworms-in-dogs/ "Read more about hookworms in dogs here"), and [roundworms](http://urlsec.io/\~https://www.akc.org/expert-advice/health/roundworms-in-dogs-symptoms-treatment-and-prevention/ "Read more about roundworms in dogs here") when I took her to her first vet visit. :triumph: :worried: But, the vet we had taken her to had told us that the virus is in the very early stages and can be treatable if dealt with appropriately.
 
 ***
 
@@ -52,6 +50,6 @@ I haven't wrote a good ol' fashioned blog post in quite some time, and just want
 
 ![Playful puppy](https://i.imgur.com/2czquUF.jpg "Daisy")
 
-Thanks for reading! :smile:
+Thanks for reading! I really appreciate it! :smile:
 
 ***
