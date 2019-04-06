@@ -42,14 +42,14 @@ You can try the evidence!
 
 I haven't wrote a good ol' fashioned blog post in quite some time, and just wanted to test my chops again.
 
-**Also..** sadly Daisy has been diagnosed with the [Parvovirus](http://urlsec.io/\~https://www.akc.org/expert-advice/health/what-every-puppy-owner-needs-to-know-about-parvo-in-puppies/ "Read more about the Parvovirus in puppies here"), as well as [hookworms](http://urlsec.io/\~https://www.akc.org/expert-advice/health/understanding-hookworms-in-dogs/ "Read more about hookworms in dogs here"), and [roundworms](http://urlsec.io/\~https://www.akc.org/expert-advice/health/roundworms-in-dogs-symptoms-treatment-and-prevention/ "Read more about roundworms in dogs here") when I took her to her first vet visit. :triumph: :worried: But, the vet we had taken her to had told us that the virus is in the very early stages and can be treatable if dealt with appropriately.
+**Also..** sadly Daisy has been diagnosed with [parvovirus](http://urlsec.io/\~https://www.akc.org/expert-advice/health/what-every-puppy-owner-needs-to-know-about-parvo-in-puppies/ "Read more about the Parvovirus in puppies here"), as well as [hookworms](http://urlsec.io/\~https://www.akc.org/expert-advice/health/understanding-hookworms-in-dogs/ "Read more about hookworms in dogs here"), and [roundworms](http://urlsec.io/\~https://www.akc.org/expert-advice/health/roundworms-in-dogs-symptoms-treatment-and-prevention/ "Read more about roundworms in dogs here") after I took her to her first vet visit. :triumph: :worried: The vet told us that the virus is in the very early stages, and can be treatable if dealt with appropriately. Daisy has around a 62% - 90% chance of beating this nasty parvovirus, the other worms can be easily treated. I'm now at the point where I'm administering medication to her daily, while also watching her behavior to see if there are any changes. I'm remaining hopeful that she beats this, because she is a sweet creature, and loves to cuddle. It makes me happy to see her happy.
 
 ***
 
-## Puppy tax :dog2:
+##  Puppy tax :dog2:
 
 ![Playful puppy](https://i.imgur.com/2czquUF.jpg "Daisy")
 
-Thanks for reading! I really appreciate it! :smile:
+Thanks for reading, I really appreciate it! :smile:
 
 ***
