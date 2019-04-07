@@ -24,7 +24,8 @@ description: A post about my newest best friend, Daisy
 
 * At the time of this post she is 9 weeks old
 * Loves to bite fingers
-* Loves to run and play and chew on her favorite pink teething bone :meat_on_bone:
+* Loves to run and play 
+* Loves to chew on her favorite pink teething bone :meat_on_bone:
 
 ***
 
