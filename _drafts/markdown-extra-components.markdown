@@ -1,8 +1,8 @@
 ---
-title: Markdown Extra Components
+title: A quest to build a decent Plex server
 layout: post
 date: 2016-02-24 22:48
-image: "/assets/images/markdown.jpg"
+image: "/uploads/2019/05/28/A quest to build a decent Plex server.png"
 headerImage: false
 tag:
 - markdown
