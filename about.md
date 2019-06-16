@@ -39,4 +39,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Currently listening to..</h2>
 
-<iframe src="http://jonesdoug.com/lastfm/index.html" style="border:0px #ffffff dotted;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="600px" width="600px" allowfullscreen></iframe</li>  
+<iframe src="http://jonesdoug.com/lastfm/index.html" style="border:0px #ffffff dotted;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe</li>  
