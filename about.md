@@ -40,7 +40,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Projects</h2>
 
 <ul>
-<li><a href="https://github.com/">Lorem Lorem</a></li>
-<li><a href="https://github.com/">Ipsum Dolor</a></li>
-<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<li><iframe src="[https://jonesdoug.com/lastfm/](https://jonesdoug.com/lastfm/ "https://jonesdoug.com/lastfm/")" style="border:0px #ffffff dotted;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe</li>  </ul>
