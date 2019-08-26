@@ -7,7 +7,7 @@ layout: page
 
 ![](http://giphygifs.s3.amazonaws.com/media/FCj2lt4LKtYyY/giphy.gif)
 
-<p>Hi there!</p> :wave:
+<p>Hi there! :wave:</p>
 
 <p>I'm Doug, I have a great love for technology and tinkering with Arcade builds.</p>
 
