@@ -40,3 +40,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Currently listening to..</h2>
 
 <iframe src="http://jonesdoug.com/lastfm/index.html" style="border:0px #ffffff dotted;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe</li>  
+    
+<h2>Currently watching..</h2>   
+<a target="_blank" href="https://trakt.tv/users/dougtechdude"><img width="500" height="281" alt="dougtechdude" src="https://widgets.trakt.tv/users/f3a42ad0824a065323260cb3c0469b46/watched/fanart2@2x.jpg" /></a>
