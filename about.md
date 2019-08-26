@@ -37,9 +37,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Currently listening to..</h2>
 
-<iframe src="http://jonesdoug.com/lastfm/index.html" style="border:0px #ffffff dotted;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe</li>  
     
 <h2>Currently watching..</h2>   
 
