@@ -6,7 +6,7 @@ image: "/uploads/2019/09/07/dbf5hrw-6f39e6de-039d-4d2b-ad0d-8a6da7b8df5b.gif"
 headerImage: false
 tag: []
 category: blog
-author: jamesfoster
+author: doug
 description: Markdown summary with different options
 
 ---
