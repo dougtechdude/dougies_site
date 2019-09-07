@@ -2,12 +2,9 @@
 title: Example File to base all blog post from
 layout: post
 date: 2016-02-24 22:48
-image: "/assets/images/markdown.jpg"
+image: "/uploads/2019/09/07/dbf5hrw-6f39e6de-039d-4d2b-ad0d-8a6da7b8df5b.gif"
 headerImage: false
-tag:
-- markdown
-- components
-- extra
+tag: []
 category: blog
 author: jamesfoster
 description: Markdown summary with different options
