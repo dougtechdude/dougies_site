@@ -1,189 +1,45 @@
 ---
-title: A quest to build a decent Plex server
+title: Overwhelmed by emails? Stop Checking! Try out Adios!
 layout: post
 date: 2016-02-24 22:48
-image: "/uploads/2019/05/28/A quest to build a decent Plex server.png"
+image: https://cdn.dougjon.es/blog_assets/Overwhelmed_by_emails_.png
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- adios.ai
+- adios
+- ai
+- email
+- gmail
+- time saving
 category: blog
 author: dougjones
-description: Markdown summary with different options
+description: Same time, schedule out your email deliveries each day
 
 ---
-## Summary:
+## Are you becoming overwhelmed by the amount of emails that you receive in a typical day?
 
-You can pick as item to see how to apply in markdown.
+## Do you use Gmail (or G Suite) ?
 
-#### Especial Elements
+Then I have the perfect solution for you!
 
-* [Evidence](#evidence)
-* [Side-by-Side](#side-by-side)
-* [Star](#star)
-* [Especial Breaker](#especial-breaker)
-* [Spoiler](#spoiler)
+### The service is called [Adio.ai](https://adios.ai/ "Adios.ai")
 
-#### External Elements
+![Adios.ai - Get sh*t done!](https://cdn.dougjon.es/blog_assets/sc_adios_ai.png "Adios. ai")
 
-* [Gist](#gist)
-* [Codepen](#codepen)
-* [Slideshare](#slideshare)
-* [Videos](#videos)
+#### Basically to sum up how the service works in one sentence.
+
+Once you click the **🚀Get Started** link on the homepage, it will ask you to link your Gmail or G Suite account to the 3rd-party application. Afterwards, you'll be brought to a screen asking you to asking you to choose times each day to receive emails in full digests at the times of your choosing. For example I have it set for 12:00 PM and 8:00 PM doing this allows me to receive email notifications only twice a day! (huge relief)
 
 ***
 
-## Evidence
+![](https://cdn.dougjon.es/blog_assets/sc_adios_ai_2.png)
 
-You can try the evidence!
+#### Worried about missing an important email?
 
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
+If you're worried about missing an important email that a friend or boss sent? No worries here, simply use the Adios Stashed Email tab inside of your inbox to access your queued emails before they're delivered to your main inbox.
 
-{% highlight html %} <span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span> {% endhighlight %}
+## Verdict?
 
-***
+I think this is a pretty great product, and it's free to use at the time of this email. I've been using it for well over a year and love not be bombarded by useless newsletter email notifications every 5 seconds.
 
-## Side-by-side
-
-Like the [Medium](https://medium.com/) component.
-
-**Image** on the left and **Text** on the right:
-
-{% highlight html %}
-<div class="side-by-side">
-<div class="toleft">
-<img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-<figcaption class="caption">Photo by John Doe</figcaption>
-</div>
-
-    <div class="toright">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-
-</div>
-{% endhighlight %}
-
-<div class="side-by-side">
-<div class="toleft">
-<img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-<figcaption class="caption">Photo by John Doe</figcaption>
-</div>
-
-    <div class="toright">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-
-</div>
-
-**Text** on the left and **Image** on the right:
-
-{% highlight html %} <div class="side-by-side"> <div class="toleft"> <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> </div>
-
-    <div class="toright">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
-
-</div>
-{% endhighlight %}
-
-<div class="side-by-side">
-<div class="toleft">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-</div>
-
-    <div class="toright">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
-
-</div>
-
-***
-
-## Star
-
-You can give evidence to a post. Just add the tag to the markdown file.
-
-{% highlight raw %}
-star: true
-{% endhighlight %}
-
-***
-
-## Especial Breaker
-
-You can add a especial _hr_ to your text.
-
-{% highlight html %}
-<div class="breaker"></div>
-{% endhighlight %}
-
-<div class="breaker"></div>
-
-***
-
-## Spoiler
-
-You can add an especial hidden content that appears on hover.
-
-{% highlight html %}
-<div class="spoiler"><p>your content</p></div>
-{% endhighlight %}
-
-<div class="spoiler"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
-
-***
-
-## Gist
-
-You can add Gists from github.
-
-{% highlight raw %}
-{ % gist sergiokopplin/91ff4220480727b47224245ee2e9c291 % }
-{% endhighlight %}
-
-{% gist sergiokopplin/91ff4220480727b47224245ee2e9c291 %}
-
-***
-
-## Codepen
-
-You can add Pens from Codepen.
-
-{% highlight html %}
-<p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>
-See the Pen <a href='http://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of the Book Cover of _The Flame Alphabet_</a> by Chris Coyier (<a href='http://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='http://codepen.io'>CodePen</a>.
-</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-{% endhighlight %}
-
-<p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>See the Pen <a href='http://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of the Book Cover of _The Flame Alphabet_</a> by Chris Coyier (<a href='http://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
-***
-
-## Slideshare
-
-Add your presentations here!
-
-{% highlight html %}
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-{% endhighlight %}
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-
-***
-
-## Videos
-
-Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!
-
-**Example**
-
-{% highlight html %}
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
-{% endhighlight %}
-
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
+## Try it out!
