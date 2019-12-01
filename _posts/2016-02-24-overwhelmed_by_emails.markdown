@@ -1,7 +1,7 @@
 ---
 title: Overwhelmed by emails? Stop Checking! Try out Adios!
 layout: post
-date: 2016-02-24 22:48
+date: 2019-12-01 16:30:00 -0500
 image: https://cdn.dougjon.es/blog_assets/Overwhelmed_by_emails_.png
 headerImage: false
 tag:
