@@ -22,9 +22,9 @@ description: Same time, schedule out your email deliveries each day
 
 Then I have the perfect solution for you!
 
-### The service is called [Adio.ai](https://adios.ai/ "Adios.ai")
+### The service is called [Adio.ai](http://urlsec.io/\~https://adios.ai/ "Adios.ai")
 
-![Adios.ai - Get sh*t done!](https://cdn.dougjon.es/blog_assets/sc_adios_ai.png "Adios. ai")
+![Adios.ai - Get sh](https://cdn.dougjon.es/blog_assets/sc_adios_ai.png "Adios. ai")
 
 #### Basically to sum up how the service works in one sentence.
 
