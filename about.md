@@ -34,8 +34,4 @@ layout: page
 <a target="_blank" href="https://trakt.tv/users/dougtechdude"><img width="300" height="490" alt="dougtechdude" src="https://widgets.trakt.tv/users/f3a42ad0824a065323260cb3c0469b46/watched/poster@2x.jpg" /></a>
 
 <h2>Listen to my radio stream</h2>
-<script type="text/javascript">var cstruid = 509205;var cstrdark = "TRUE";</script>
-<script type="text/javascript" src="http://cdn.caster.fm/0070B7/widgets/status.js"></script>
-<!--   DO NOT REMOVE THE LINKS BELOW, THEY  WILL BE HIDDEN (AND WILL HELP US A LOT)   -->
-<a id="cstrlb" href="http://www.caster.fm/">Free Shoutcast Hosting</a><a id="cstrlb2" href="http://www.caster.fm/">Radio Stream Hosting</a>
-<div id="cstrdiv"></div>
+<p><script type="text/javascript">var cstrpuid = 509205;var cstrpwidth = "300";var cstrpheight = "195";</script><script type="text/javascript" src="http://cdn.caster.fm/0070B7/widgets/player.js"></script><!--   DO NOT REMOVE THE LINKS BELOW, THEY  WILL BE HIDDEN (AND WILL HELP US A LOT)   --><a id="cstrplb" href="http://www.caster.fm/">Free Shoutcast Hosting</a><a id="cstrplb2" href="http://www.caster.fm/">Radio Stream Hosting</a><div id="cstrpdiv"></div></p>
