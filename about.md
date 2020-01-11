@@ -36,4 +36,6 @@ layout: page
 <h2>Listen to my radio stream</h2>
 <script type="text/javascript">var cstrpuid = 509205;var cstrpwidth = "500";var cstrpheight = "325";</script>
 <script type="text/javascript" src="https://corscdn.caster.fm/freeplayer/player_noads.js"></script>
+<!--   DO NOT REMOVE THE LINKS BELOW, THEY  WILL BE HIDDEN (AND WILL HELP US A LOT)   -->
+<a id="cstrplb" href="http://www.caster.fm/">Free Shoutcast Hosting</a><a id="cstrplb2" href="http://www.caster.fm/">Radio Stream Hosting</a>
 <div id="cstrpdiv"></div>
