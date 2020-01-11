@@ -32,3 +32,8 @@ layout: page
 <h2>Currently watching..</h2>   
 
 <a target="_blank" href="https://trakt.tv/users/dougtechdude"><img width="300" height="490" alt="dougtechdude" src="https://widgets.trakt.tv/users/f3a42ad0824a065323260cb3c0469b46/watched/poster@2x.jpg" /></a>
+
+<h2>Listen to my radio stream</h2>
+<script type="text/javascript">var cstrpuid = 509205;var cstrpwidth = "500";var cstrpheight = "325";</script>
+<script type="text/javascript" src="https://corscdn.caster.fm/freeplayer/player_noads.js"></script>
+<div id="cstrpdiv"></div>
