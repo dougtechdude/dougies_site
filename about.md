@@ -15,7 +15,7 @@ layout: page
 
 <h2>Skills</h2>
 
-<center><ul class="skill-list">
+<ul class="skill-list">
 <li>DCP Encoder</li></center>
 <li>HTML5</li></center>
 <li>Jeckyll</li></center>
@@ -23,7 +23,7 @@ layout: page
 <li>Wordpress/Joomla/Drupal</li></center>
 <li>Plex Media Server</li></center>
 <li>UrBackup</li></center>
-</ul></center>
+</ul>
 
 
     
