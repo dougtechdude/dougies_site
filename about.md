@@ -32,7 +32,7 @@ layout: page
 <a target="_blank" href="https://trakt.tv/users/dougtechdude"><img width="300" height="490" alt="dougtechdude" src="https://widgets.trakt.tv/users/f3a42ad0824a065323260cb3c0469b46/watched/poster@2x.jpg" /></a>
 
 <h2>Listen to my radio stream</h2>
-<center><p><a href='http://dougbert.Caster.fm/' alt='Visit My Radio Site' > Visit my Radio Site </a></p></center>
+<center><p><a href='http://dougbert.Caster.fm/' alt='Visit My Radio Site' > Listen to DugBert Radio </a></p></center>
 
 
 ![](https://i.ibb.co/Ln9Cg98/r0lf.jpg)
