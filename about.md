@@ -5,7 +5,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-![](http://giphygifs.s3.amazonaws.com/media/FCj2lt4LKtYyY/giphy.gif)
+![](https://i.ibb.co/Ln9Cg98/r0lf.jpg)
 
 <h3>Hi There!</h3>
 
