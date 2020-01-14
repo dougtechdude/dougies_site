@@ -16,13 +16,13 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-<li>DCP Encoder</li></center>
-<li>HTML5</li></center>
-<li>Jeckyll</li></center>
-<li>PHP</li></center>
-<li>Wordpress/Joomla/Drupal</li></center>
-<li>Plex Media Server</li></center>
-<li>UrBackup</li></center>
+<li>DCP Encoder</li>
+    <li>HTML5</li>
+<li>Jeckyll</li>
+<li>PHP</li>
+<li>Wordpress/Joomla/Drupal</li>
+<li>Plex Media Server</li>
+<li>UrBackup</li>
 </ul>
 
 
