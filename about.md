@@ -15,15 +15,15 @@ layout: page
 
 <h2>Skills</h2>
 
-<ul class="skill-list">
-<center><li>DCP Encoder</li></center>
-<center><li>HTML5</li></center>
-<center><li>Jeckyll</li></center>
-<center><li>PHP</li></center>
-<center><li>Wordpress/Joomla/Drupal</li></center>
-<center><li>Plex Media Server</li></center>
-<center><li>UrBackup</li></center>
-</ul>
+<center><ul class="skill-list">
+<li>DCP Encoder</li></center>
+<li>HTML5</li></center>
+<li>Jeckyll</li></center>
+<li>PHP</li></center>
+<li>Wordpress/Joomla/Drupal</li></center>
+<li>Plex Media Server</li></center>
+<li>UrBackup</li></center>
+</ul></center>
 
 
     
