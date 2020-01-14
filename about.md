@@ -16,13 +16,13 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-<li>DCP Encoder (<a href="https://www.hbfilmworks.com/dcp-info.html">More info here</a>)</li> (Email me for cheap rates)
-<li>HTML5</li>
-<li>Jeckyll</li>
-<li>PHP</li>
-<li>Wordpress/Joomla/Drupal</li>
-<li>Plex Media Server</li>
-<li>UrBackup</li>
+<center><li>DCP Encoder</li></center>
+<center><li>HTML5</li></center>
+<center><li>Jeckyll</li></center>
+<center><li>PHP</li></center>
+<center><li>Wordpress/Joomla/Drupal</li></center>
+<center><li>Plex Media Server</li></center>
+<center><li>UrBackup</li></center>
 </ul>
 
 
