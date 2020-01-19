@@ -72,7 +72,8 @@ if (typeof jQuery == 'undefined') {
   document.write('<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></scr' + i + 'pt>');
 }
 </script>
-<script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/jplayer/jquery.jplayer.min.js"></script>
+
+<center><script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/jplayer/jquery.jplayer.min.js"></script>
 <script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/jplayer/jquery-ui-1.10.2.custom.min.js"></script>
 <script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/jplayer/modernizr.js"></script>
 <script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/jplayer/rt_pl.js"></script>
@@ -86,21 +87,21 @@ if (typeof jQuery == 'undefined') {
 <a id="rtplmaxvol-1" class="rtplmaxvol-mini button_max_vol_style-5-mini" href="#"></a>
 </div>
 </div>
-<script>$(document).ready( function(){ new RTPlayer( 1, 50, false, "https://usa10.fastcast4u.com:3140",  "mp3", {"mp3": "https://usa10.fastcast4u.com:3165/stream"}, "en")  });</script>
+<script>$(document).ready( function(){ new RTPlayer( 1, 50, false, "https://usa10.fastcast4u.com:3140",  "mp3", {"mp3": "https://usa10.fastcast4u.com:3165/stream"}, "en")  });</script></center>
 
 <!-- iTunes 96 kpbs mp3 -->
-<a href="https://usa10.fastcast4u.com:3140/dougi3/1/itunes.pls"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/itunes.png" title="iTunes 96 kpbs mp3"></a>
+<center><a href="https://usa10.fastcast4u.com:3140/dougi3/1/itunes.pls"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/itunes.png" title="iTunes 96 kpbs mp3"></a></center>
 
 <!-- RealPlayer 96 kpbs mp3 -->
-<a href="https://usa10.fastcast4u.com:3140/dougi3/1/realplayer.ram"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/realplayer.png" title="RealPlayer 96 kpbs mp3"></a>
+<center><a href="https://usa10.fastcast4u.com:3140/dougi3/1/realplayer.ram"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/realplayer.png" title="RealPlayer 96 kpbs mp3"></a></center>
 
 <!-- WebPlayer 96 kpbs mp3 -->
-<a href="https://usa10.fastcast4u.com:3140/dougi3/1/web"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/web.png" title="WebPlayer 96 kpbs mp3"></a>
+<center><a href="https://usa10.fastcast4u.com:3140/dougi3/1/web"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/web.png" title="WebPlayer 96 kpbs mp3"></a></center>
 
 <!-- WindowsMedia 96 kpbs mp3 -->
-<a href="https://usa10.fastcast4u.com:3140/dougi3/1/wmp.asx"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/mplayer.png" title="WindowsMedia 96 kpbs mp3"></a>
+<center><a href="https://usa10.fastcast4u.com:3140/dougi3/1/wmp.asx"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/mplayer.png" title="WindowsMedia 96 kpbs mp3"></a></center>
 
 <!-- Winamp 96 kpbs mp3 -->
-<a href="https://usa10.fastcast4u.com:3140/dougi3/1/winamp.m3u"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/winamp.png" title="Winamp 96 kpbs mp3"></a>
+<center><a href="https://usa10.fastcast4u.com:3140/dougi3/1/winamp.m3u"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/winamp.png" title="Winamp 96 kpbs mp3"></a></center>
 
 ![](https://i.ibb.co/Ln9Cg98/r0lf.jpg)
