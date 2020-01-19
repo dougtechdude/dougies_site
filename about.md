@@ -66,7 +66,7 @@ vote_results_font_size="14"
 <link rel="stylesheet" type="text/css" href="https://usa10.fastcast4u.com:3140/media/static/css/current_track_widget/status_widget.css" />
 <script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/current_track_widget/status_widget.js"></script></center>
 
-<center><audio src="http://usa10.fastcast4u.com:3160/stream" autoplay="true" controls="true" volume="1.0"></audio>
+<center><audio src="http://usa10.fastcast4u.com:3160/stream" autoplay="false" controls="true" volume="0.5"></audio>
 </center>
 
 ![](https://i.ibb.co/Ln9Cg98/r0lf.jpg)
