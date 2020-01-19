@@ -64,7 +64,7 @@ vote_results_font_size="14"
 </div>
 <link rel="stylesheet" type="text/css" href="https://usa10.fastcast4u.com:3140/media/static/css/current_track_widget/status_widget.css" />
 <script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/current_track_widget/status_widget.js"></script>
-<center><p><a href='http://dougbert.Caster.fm/' alt='Visit My Radio Site' > Listen to DugBert Radio </a></p></center>
+<center><p><a href='https://fastcast4u.com/player/dougi3/' alt='Listen to my Internet radio station' > Listen to DugBert Radio </a></p></center>
 
 
 ![](https://i.ibb.co/Ln9Cg98/r0lf.jpg)
