@@ -69,14 +69,6 @@ vote_results_font_size="14"
 <center><audio src="http://usa10.fastcast4u.com:3160/stream" autoplay="true" controls="true" volume="1.0"></audio>
 </center>
 
-<link href="https://usa10.fastcast4u.com:3140/media/static/css/widget-status.css" rel="stylesheet">
+#![](https://i.ibb.co/Ln9Cg98/r0lf.jpg)
 
-<div id="RTWidgetStatus"></div>
 
-![](https://i.ibb.co/Ln9Cg98/r0lf.jpg)
-
-<script>
-if (typeof jQuery == 'undefined') { 
-  var i = "i";
-  document.write('<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></scr' + i + 'pt>');
-}
