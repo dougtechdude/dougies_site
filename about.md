@@ -63,8 +63,44 @@ vote_results_font_size="14"
 </div>
 </div>
 <link rel="stylesheet" type="text/css" href="https://usa10.fastcast4u.com:3140/media/static/css/current_track_widget/status_widget.css" />
-<script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/current_track_widget/status_widget.js"></script>
-<center><p><a href='https://fastcast4u.com/player/dougi3/' alt='Listen to my Internet radio station' > Listen to DugBert Radio </a></p></center>
+<link href="https://usa10.fastcast4u.com:3140/media/static/css/player/base.css" rel="stylesheet" type="text/css" />
+<link href="https://usa10.fastcast4u.com:3140/media/static/css/player/style-5-mini.css" rel="stylesheet" type="text/css" />
+<link href="https://usa10.fastcast4u.com:3140/media/static/css/ui/jquery.ui.slider.css" rel="stylesheet" type="text/css" />
+<script>
+if (typeof jQuery == 'undefined') { 
+  var i = "i";
+  document.write('<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></scr' + i + 'pt>');
+}
+</script>
+<script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/jplayer/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/jplayer/jquery-ui-1.10.2.custom.min.js"></script>
+<script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/jplayer/modernizr.js"></script>
+<script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/jplayer/rt_pl.js"></script>
+<div id="rtJpID-1"></div>
+<div class="rtplwrapperForIe-mini">
+<div id="rtplayer-1" class="rtplmain_window-mini gradient_style-5-mini">
+<a id="button_play_stop-1" class="rtplbutton_play_stop-mini button_play_stop_style-5-mini" href="#"></a>
+<div id="current_time-1" class="rtplcurrent_time-mini">00:00:00</div>
+<a id="rtplmute-1" class="rtplmute-mini button_mute_style-5-mini" href="#"></a>
+<div id="rtplvolume-1" class="rtplvolume-mini"></div>
+<a id="rtplmaxvol-1" class="rtplmaxvol-mini button_max_vol_style-5-mini" href="#"></a>
+</div>
+</div>
+<script>$(document).ready( function(){ new RTPlayer( 1, 50, false, "https://usa10.fastcast4u.com:3140",  "mp3", {"mp3": "https://usa10.fastcast4u.com:3165/stream"}, "en")  });</script>
 
+<!-- iTunes 96 kpbs mp3 -->
+<a href="https://usa10.fastcast4u.com:3140/dougi3/1/itunes.pls"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/itunes.png" title="iTunes 96 kpbs mp3"></a>
+
+<!-- RealPlayer 96 kpbs mp3 -->
+<a href="https://usa10.fastcast4u.com:3140/dougi3/1/realplayer.ram"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/realplayer.png" title="RealPlayer 96 kpbs mp3"></a>
+
+<!-- WebPlayer 96 kpbs mp3 -->
+<a href="https://usa10.fastcast4u.com:3140/dougi3/1/web"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/web.png" title="WebPlayer 96 kpbs mp3"></a>
+
+<!-- WindowsMedia 96 kpbs mp3 -->
+<a href="https://usa10.fastcast4u.com:3140/dougi3/1/wmp.asx"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/mplayer.png" title="WindowsMedia 96 kpbs mp3"></a>
+
+<!-- Winamp 96 kpbs mp3 -->
+<a href="https://usa10.fastcast4u.com:3140/dougi3/1/winamp.m3u"><img src="https://usa10.fastcast4u.com:3140/media/static/images/listener/winamp.png" title="Winamp 96 kpbs mp3"></a>
 
 ![](https://i.ibb.co/Ln9Cg98/r0lf.jpg)
