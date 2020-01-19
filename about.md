@@ -69,6 +69,6 @@ vote_results_font_size="14"
 <center><audio src="http://usa10.fastcast4u.com:3160/stream" autoplay="true" controls="true" volume="1.0"></audio>
 </center>
 
-#![](https://i.ibb.co/Ln9Cg98/r0lf.jpg)
+![](https://i.ibb.co/Ln9Cg98/r0lf.jpg)
 
 
