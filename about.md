@@ -32,6 +32,38 @@ layout: page
 <a target="_blank" href="https://trakt.tv/users/dougtechdude"><img width="300" height="490" alt="dougtechdude" src="https://widgets.trakt.tv/users/f3a42ad0824a065323260cb3c0469b46/watched/poster@2x.jpg" /></a>
 
 <h2>Listen to my radio stream</h2>
+<div style="width: 300px;">
+<div class="sc-status-widget">
+<div is="stream-status-widget" 
+lang="en" 
+api-base="https://usa10.fastcast4u.com:3140/api/v2" 
+server-id="1" 
+bgcolor="#ffffff"
+bgopacity="1"
+bgimage=""
+meta_font_size="14"
+meta_font_style="normal"
+meta_font_color="#000000"
+meta_opacity="1"
+progress_bar_color="#486bcd"
+progress_bar_bg_color="#e1e1e1"
+progress_bar_height="25"
+progress_opacity="1"
+progress_font_color="#000000"
+progress_font_opacity="1"
+track_image_default="https://usa10.fastcast4u.com:3140/media/tracks/default_track_img.png"
+track_image_size="80"
+vote_show="true"
+vote_buttons_color="#000000"
+vote_results_font_color_neg="#ff0000"
+vote_results_font_color_pos="#00ff00"
+vote_results_font_size="14"
+>
+</div>
+</div>
+</div>
+<link rel="stylesheet" type="text/css" href="https://usa10.fastcast4u.com:3140/media/static/css/current_track_widget/status_widget.css" />
+<script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/current_track_widget/status_widget.js"></script>
 <center><p><a href='http://dougbert.Caster.fm/' alt='Visit My Radio Site' > Listen to DugBert Radio </a></p></center>
 
 
