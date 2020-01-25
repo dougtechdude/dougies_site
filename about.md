@@ -17,7 +17,7 @@ layout: page
 
 <ul class="skill-list">
 <li>DCP Encoder</li>
-    <li>HTML5</li>
+<li>HTML5</li>
 <li>Jeckyll</li>
 <li>PHP</li>
 <li>Wordpress/Joomla/Drupal</li>
@@ -31,7 +31,7 @@ layout: page
 
 <a target="_blank" href="https://trakt.tv/users/dougtechdude"><img width="300" height="490" alt="dougtechdude" src="https://widgets.trakt.tv/users/f3a42ad0824a065323260cb3c0469b46/watched/poster@2x.jpg" /></a>
 
-<center><h2>Listen to my radio stream</h2></center>
+<center><h2>Listen to my stream:</h2></center>
 <center>
 <div style="width: 300px;">
 <div class="sc-status-widget">
@@ -66,7 +66,7 @@ vote_results_font_size="14"
 <link rel="stylesheet" type="text/css" href="https://usa10.fastcast4u.com:3140/media/static/css/current_track_widget/status_widget.css" />
 <script type="text/javascript" src="https://usa10.fastcast4u.com:3140/media/static/js/current_track_widget/status_widget.js"></script></center>
 
-<center><audio src="http://usa10.fastcast4u.com:3160/stream" autoplay="false" controls="true" volume="0.5"></audio>
+<center><audio src="http://usa10.fastcast4u.com:3160/stream" autoplay="true" controls="true" volume="0"></audio>
 </center>
 
 ![](https://i.ibb.co/Ln9Cg98/r0lf.jpg)
