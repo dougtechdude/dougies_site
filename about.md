@@ -5,11 +5,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h3>Hi There!</h3>
+<center><h3>Hi There!</h3></center>
 
-<p>I'm Doug, I have a great love for technology and learning to code.</p>
+<center><p>I'm Doug, I have a great love for technology and learning to code.</p></center>
 
-<p>This blog is a spot for you the reader, to view my: skills, thoughts, dreams, ambitions, and most importantly my freaking out as I go through this journey learning code.</p>
+<center><p>This blog is a spot for you the reader, to view my: skills, thoughts, dreams, ambitions, and most importantly my freaking out as I go through this journey learning code.</p></center>
 
 
 
