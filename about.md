@@ -30,7 +30,7 @@ layout: page
 <center><h2>Last watched:</h2></center>   
 
 <a target="_blank" href="https://trakt.tv/users/dougtechdude"><img width="300" height="490" alt="dougtechdude" src="https://widgets.trakt.tv/users/f3a42ad0824a065323260cb3c0469b46/watched/poster@2x.jpg" /></a>
-
+<break></break>
 <center><h2>Listen to my stream:</h2></center>
 <center>
 <div style="width: 300px;">
