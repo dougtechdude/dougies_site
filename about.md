@@ -32,5 +32,7 @@ layout: page
 <a target="_blank" href="https://trakt.tv/users/dougtechdude"><img width="300" height="490" alt="dougtechdude" src="https://widgets.trakt.tv/users/f3a42ad0824a065323260cb3c0469b46/watched/poster@2x.jpg" /></a>
 <break></break>
 
+<iframe src="https://radio.dougie.cloud/public/dougie_radio/embed" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>
 
+<iframe src="https://radio.dougie.cloud/public/dougie_radio/embed-requests" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 850px; border: 0;"></iframe>
 
