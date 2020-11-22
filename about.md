@@ -33,6 +33,3 @@ layout: page
 <break></break>
 
 <iframe src="https://radio.dougie.cloud/public/dougie_radio/embed" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>
-
-<iframe src="https://radio.dougie.cloud/public/dougie_radio/embed-requests" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 850px; border: 0;"></iframe>
-
