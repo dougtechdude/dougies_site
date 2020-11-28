@@ -11,6 +11,7 @@ layout: page
 
 <center><p>This blog is a spot for you the reader, to view my: skills, thoughts, dreams, ambitions, and most importantly my freaking out as I go through this journey learning code.</p></center>
 
+<hr>
 
 
 <h2>Skills</h2>
