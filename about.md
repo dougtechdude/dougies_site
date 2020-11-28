@@ -21,11 +21,10 @@ layout: page
 <li>Jeckyll</li>
 <li>PHP</li>
 <li>Wordpress/Joomla/Drupal</li>
-<li>Plex Media Server</li>
-<li>UrBackup</li>
+<li>Plex Media Server management</li>
 </ul>
 
-
+<hr>
     
 <center><h2>Last watched:</h2></center>   
 
